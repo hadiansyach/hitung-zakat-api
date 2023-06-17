@@ -2,7 +2,13 @@
     {
         "imageId" : "emas-batangan",
         "jenisEmas" : "Emas Batangan",
-        "tglUpdateHarga" : "16 Juni 2023",
-        "hargaEmas" : "Rp 1.100.000/gr"
+        "tglUpdateHarga" : "17 Juni 2023",
+        "hargaEmas" : "Rp 1,063,000/gr"
+    },
+    {
+        "imageId" : "emas-batang-antam",
+        "jenisEmas" : "Emas Batangan",
+        "tglUpdateHarga" : "26 Mei 2023",
+        "hargaEmas" : "Rp 1.043.000/gr"
     }
 ]
